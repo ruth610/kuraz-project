@@ -13,14 +13,14 @@ This is a simple Task Manager application with a Node.js backend using MySQL and
 
 📁 Project Structure
 css
-kuraz-project/
-├── backend/
-│   ├── controller/
-│   ├── routes/
-│   ├── db_config/
+kuraz-project
+├── backend
+│   ├── controller
+│   ├── routes
+│   ├── db_config
 │   └── index.js
-└── frontend/
-    └── src/
+└── frontend
+    └── src
         └── TasksList.jsx
 ⚙️ Backend Setup (Node.js + MySQL)
 1. Clone the project
