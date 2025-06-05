@@ -95,3 +95,7 @@ Add tasks through the form
 Delete tasks with the "Delete" button
 
 Use browser dev tools (Network tab) to inspect API requests
+
+the user interface 
+![image](https://github.com/user-attachments/assets/fb5cbdc0-1f76-45d4-981d-7ca969e23feb)
+
